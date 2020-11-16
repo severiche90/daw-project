@@ -21,6 +21,7 @@ To read all project documentation, please go to its wiki in [this link](https://
 * Introducción
 * Instalación de Herramientas
 * Ejecución de la aplicación
+* Uso de Aplicación 
 * Licencia
 
 ## Introducción 
@@ -32,6 +33,22 @@ El presente trabajo práctico final de la materia Desarrollo de Aplicaciones Web
 La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual es necesario instalar algunas dependencias antes de poder ejecutarla. Antes de realizar los siguientes pasos es necesario tener instalado Docker y Docker Compose. En la documentación oficial de [Docker](https://docs.docker.com/engine/install/ubuntu/) y de [Docker Compose](https://docs.docker.com/compose/install/) están los pasos para instalar las herramientas en todas las plataformas.
 
 ## Ejecución de aplicación
+
+Una vez que se han instaladas todas las dependencias se podrá ejecutar la aplicación. Para ello, se deberá descargar éste repositorio.
+  
+  git clone https://github.com/severiche90/daw-project.git
+
+Para inicializar el contenedor, primero se debe acceder al directorio donde se descargó el repositorio.
+
+Luego debera abrir una terminal y ejecutar el siguiente comando.
+
+  docker-compose up
+
+Una vez iniciado, resta abrir una nueva pestaña en el navegador y acceder a la dirección http://localhost:8000/.
+
+Para cerrar el contenedor, se puede correr el comando docker-compose down desde otra terminal.
+
+## Uso de Aplicación 
 
 La aplicación Smart Home se ejecuta cuando un navegador se comunica con el servidor web mediante el envío de solicitudes HTTP. Dicho servidor utiliza la tecnología Node.js para que, una vez establecida la conexión, se intercambien datos y que el navegador pueda presentar la aplicación web. La siguiente imagen muestra lo que vería el usuario al momento de ejecutarla.
 
@@ -51,13 +68,7 @@ Para eliminar el dispositivo presione el botón “DELETE”, Luego se abrirá u
 
 Para agregar un dispositivo presione el botón “ADD”, luego se abrirá una ventana en donde deberá ingresar los parámetros requeridos del dispositivo que desea agregar. A continuación presioné aceptar y el dispositivo estará disponible en la lista de dispositivos existentes Devices.
 
-
-
-
-
-
-
-## Licence
+## Licencia
 
 This project is published under GPLV3+ licence.
 
