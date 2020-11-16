@@ -18,10 +18,10 @@ To read all project documentation, please go to its wiki in [this link](https://
 
 # Contenidos
 
-1.Introduccion
-2.Instalacion de Herrmientas
-3.ejecucion de la aplicacion
-4.Licencia
+* Introduccion
+* Instalacion de Herrmientas
+* ejecucion de la aplicacion
+* Licencia
 
 
 
