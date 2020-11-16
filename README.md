@@ -45,6 +45,14 @@ Para editar un dispositivos existente haga click en el botón “EDIT”, Luego 
 
 ## Eliminar Dispositivo
 
+Para eliminar el dispositivo presione el botón “DELETE”, Luego se abrirá una ventana en donde deberá seleccionar el ID del dispositivo a eliminar, una vez ingresado el ID presione el botón “Aceptar”, luego presione el botón salir o escape. 
+
+## Agregar Dispositivo
+
+Para agregar un dispositivo presione el botón “ADD”, luego se abrirá una ventana en donde deberá ingresar los parámetros requeridos del dispositivo que desea agregar. A continuación presioné aceptar y el dispositivo estará disponible en la lista de dispositivos existentes.
+
+
+
 
 
 
