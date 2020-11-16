@@ -34,9 +34,9 @@ La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual e
 
 ## Ejecución de aplicación
 
-Una vez que se han instaladas todas las dependencias se podrá ejecutar la aplicación. Para ello, se deberá descargar éste repositorio.
+Una vez que se han instaladas todas las dependencias se podrá ejecutar la aplicación. Para ello, se deberá descargar éste repositorio con el siguiente comando desde una terminal:
   
-  git clone https://github.com/severiche90/daw-project.git
+ * git clone https://github.com/severiche90/daw-project.git
 
 Para inicializar el contenedor, primero se debe acceder al directorio donde se descargó el repositorio.
 
