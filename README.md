@@ -46,7 +46,7 @@ Luego debera abrir una terminal y ejecutar el siguiente comando.
 
 Una vez iniciado, resta abrir una nueva pestaña en el navegador y acceder a la dirección http://localhost:8000/.
 
-Para cerrar el contenedor, se puede correr el comando #docker-compose down desde otra terminal.
+Para cerrar el contenedor, se puede correr el comando docker-compose down desde otra terminal.
 
 NOTA: Es normal que la primera vez nodeJS no se pueda conectar a la base de datos, por favor ejecutar
 
