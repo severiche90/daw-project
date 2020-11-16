@@ -49,7 +49,7 @@ Para eliminar el dispositivo presione el botón “DELETE”, Luego se abrirá u
 
 ## Agregar Dispositivo
 
-Para agregar un dispositivo presione el botón “ADD”, luego se abrirá una ventana en donde deberá ingresar los parámetros requeridos del dispositivo que desea agregar. A continuación presioné aceptar y el dispositivo estará disponible en la lista de dispositivos existentes.
+Para agregar un dispositivo presione el botón “ADD”, luego se abrirá una ventana en donde deberá ingresar los parámetros requeridos del dispositivo que desea agregar. A continuación presioné aceptar y el dispositivo estará disponible en la lista de dispositivos existentes Devices.
 
 
 
