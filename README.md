@@ -18,14 +18,23 @@ To read all project documentation, please go to its wiki in [this link](https://
 
 ## Contenidos
 
-* Introduccion
-* Instalacion de Herrmientas
-* ejecucion de la aplicacion
+* Introducción
+* Instalación de Herramientas
+* ejecución de la aplicación
 * Licencia
 
-## Introduccion
+## Introducción 
 
-El presente trabajo práctico final de la materia Desarrollo de Aplicaciones Web tiene por objetivo el diseño de una Single Page Application (SPA) aplicado a la domotica para controlar dispositivos inteligentes que son utilizados en el hogar. Este proyecto fue elaborado durante las clases de la materia y La propuesta consistió en aplicar los conceptos vistos durante la cursada para implementar nuevas funcionalidades al diseño.
+El presente trabajo práctico final de la materia Desarrollo de Aplicaciones Web tiene por objetivo el diseño de una Single Page Application (SPA) aplicado a la domotica para controlar dispositivos inteligentes que son utilizados en el hogar. Este proyecto fue elaborado durante las clases y La propuesta consistió en aplicar los conceptos vistos en la materia para implementar nuevas funcionalidades al diseño.
+
+## Instalación de Herramientas
+
+La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual es necesario instalar algunas dependencias antes de poder ejecutarla. 
+Antes de realizar los siguientes pasos es necesario tener instalado Docker y Docker Compose. En la documentación oficial de ​Docker y de
+Docker Compose están los pasos para instalar las herramientas en todas las plataformas.
+
+
+
 
 ## Licence
 
