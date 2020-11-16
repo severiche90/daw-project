@@ -29,9 +29,9 @@ El presente trabajo práctico final de la materia Desarrollo de Aplicaciones Web
 
 ## Instalación de Herramientas
 
-La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual es necesario instalar algunas dependencias antes de poder ejecutarla. 
-Antes de realizar los siguientes pasos es necesario tener instalado Docker y Docker Compose. En la documentación oficial de ​Docker y de
-Docker Compose están los pasos para instalar las herramientas en todas las plataformas.
+La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual es necesario instalar algunas dependencias antes de poder ejecutarla. Antes de realizar los siguientes pasos es necesario tener instalado Docker y Docker Compose. En la documentación oficial de [Docker](https://docs.docker.com/engine/install/ubuntu/) y de [Docker Compose](https://docs.docker.com/compose/install/) están los pasos para instalar las herramientas en todas las plataformas.
+
+
 
 
 
