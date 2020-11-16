@@ -40,9 +40,9 @@ Una vez que se han instaladas todas las dependencias se podrá ejecutar la aplic
 
 Para inicializar el contenedor, primero se debe acceder al directorio donde se descargó el repositorio.
 
-Luego debera abrir una terminal y ejecutar el siguiente comando.
+Luego debera abrir una terminal y ejecutar el siguiente comando:
 
-  docker-compose up
+ * docker-compose up
 
 Una vez iniciado, resta abrir una nueva pestaña en el navegador y acceder a la dirección http://localhost:8000/.
 
