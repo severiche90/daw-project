@@ -35,7 +35,7 @@ La aplicación fue desarrollada sobre un contenedor Docker, motivo por el cual e
 
 La aplicación Smart Home se ejecuta cuando un navegador se comunica con el servidor web mediante el envío de solicitudes HTTP. Dicho servidor utiliza la tecnología Node.js para que, una vez establecida la conexión, se intercambien datos y que el navegador pueda presentar la aplicación web. La siguiente imagen muestra lo que vería el usuario al momento de ejecutarla.
 
-(doc/image.png)
+[](doc/image.png)
 
 
 
