@@ -2,7 +2,7 @@
 
 # DAW Project Template
 
-Authors:
+Docentes:
 
 * Agustin Bassi
 * Brian Ducca
