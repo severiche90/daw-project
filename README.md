@@ -41,7 +41,7 @@ La aplicación Smart Home se ejecuta cuando un navegador se comunica con el serv
 
 Para editar un dispositivos existente haga click en el botón “EDIT”, Luego se abrirá un ventana en donde primero deberá ingresar  en ID del dispositivo que desea modificar y los parámetros que desea modificar de dicho dispositivo, una vez ingresado los parámetros presione el botón “ACEPTAR”, y luego el botón “SALIR” o presione la tecla escape. La siguiente imagen muestra la ventana de editar.
 
-![8](doc/image2.png)
+![footer](doc/image2.png)
 
 
 
