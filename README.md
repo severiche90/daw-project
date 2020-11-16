@@ -1,6 +1,6 @@
 ![header](doc/header.png)
 
-# DAW Project Template
+# TRABAJO PRACTICO FINAL
 
 Autor:
 
