@@ -50,8 +50,8 @@ Para cerrar el contenedor, se puede correr el comando docker-compose down desde 
 
 NOTA: Es normal que la primera vez nodeJS no se pueda conectar a la base de datos, por favor ejecutar
 
-docker-compose down
-docker-compose up
+*docker-compose down
+*docker-compose up
 
 ## Uso de Aplicación 
 
