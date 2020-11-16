@@ -1,6 +1,6 @@
 ![header](doc/header.png)
 
-# TRABAJO PRACTICO FINAL
+# Trabajo practico final
 
 Autor:
 
